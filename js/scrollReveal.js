@@ -56,19 +56,19 @@ window.sr = ScrollReveal();
   sr.reveal('.skillText', {
     duration: 2000,
     origin: 'top',
-    distance: "50px",
+    distance: "30px",
     reset:true
   });
   sr.reveal('.imgHolder', {
     duration: 2000,
     origin: 'bottom',
-    distance: "50px",
+    distance: "30px",
     reset:true
   });
   sr.reveal('#informations', {
     duration: 2000,
     origin: 'top',
-    distance: "50px",
+    distance: "30px",
     reset:true
   });
 
